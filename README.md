@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mi1ind&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=onedark)
+![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mi1ind&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=dracula)
+
+<!--
+Credit for the stats to: https://github.com/anuraghazra/github-readme-stats
+-->
